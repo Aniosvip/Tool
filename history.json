@@ -1,0 +1,514 @@
+{
+  "recent_results": [
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        3,
+        6,
+        4
+      ],
+      "total": 13,
+      "timestamp": 1742885877.1281018
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        6,
+        1,
+        6
+      ],
+      "total": 13,
+      "timestamp": 1742886137.3675823
+    },
+    {
+      "result": "X\u1ec9u",
+      "dice": [
+        2,
+        1,
+        3
+      ],
+      "total": 6,
+      "timestamp": 1742886229.8537395
+    },
+    {
+      "result": "X\u1ec9u",
+      "dice": [
+        1,
+        6,
+        2
+      ],
+      "total": 9,
+      "timestamp": 1742886328.9331565
+    },
+    {
+      "result": "X\u1ec9u",
+      "dice": [
+        2,
+        5,
+        1
+      ],
+      "total": 8,
+      "timestamp": 1743159346.5585737
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        3,
+        2,
+        6
+      ],
+      "total": 11,
+      "timestamp": 1743159418.4760768
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        6,
+        1,
+        4
+      ],
+      "total": 11,
+      "timestamp": 1743159804.1585264
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        4,
+        5,
+        6
+      ],
+      "total": 15,
+      "timestamp": 1743161182.8532803
+    },
+    {
+      "result": "X\u1ec9u",
+      "dice": [
+        4,
+        2,
+        2
+      ],
+      "total": 8,
+      "timestamp": 1743161322.4159765
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        5,
+        2,
+        6
+      ],
+      "total": 13,
+      "timestamp": 1743161330.5199816
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        6,
+        2,
+        4
+      ],
+      "total": 12,
+      "timestamp": 1743183193.7880826
+    },
+    {
+      "result": "X\u1ec9u",
+      "dice": [
+        3,
+        4,
+        3
+      ],
+      "total": 10,
+      "timestamp": 1744387699.5029671
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        4,
+        3,
+        4
+      ],
+      "total": 11,
+      "timestamp": 1744388742.0345724
+    },
+    {
+      "result": "X\u1ec9u",
+      "dice": [
+        1,
+        3,
+        5
+      ],
+      "total": 9,
+      "timestamp": 1745239894.314798
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        6,
+        5,
+        2
+      ],
+      "total": 13,
+      "timestamp": 1745239926.7702217
+    },
+    {
+      "result": "X\u1ec9u",
+      "dice": [
+        2,
+        1,
+        1
+      ],
+      "total": 4,
+      "timestamp": 1745239935.3106048
+    },
+    {
+      "result": "X\u1ec9u",
+      "dice": [
+        1,
+        2,
+        5
+      ],
+      "total": 8,
+      "timestamp": 1745240216.3813703
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        3,
+        5,
+        5
+      ],
+      "total": 13,
+      "timestamp": 1745240236.6331308
+    },
+    {
+      "result": "X\u1ec9u",
+      "dice": [
+        3,
+        2,
+        5
+      ],
+      "total": 10,
+      "timestamp": 1745240250.686238
+    },
+    {
+      "result": "X\u1ec9u",
+      "dice": [
+        1,
+        4,
+        1
+      ],
+      "total": 6,
+      "timestamp": 1746073725.9860053
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        6,
+        4,
+        1
+      ],
+      "total": 11,
+      "timestamp": 1746073776.9654791
+    },
+    {
+      "result": "X\u1ec9u",
+      "dice": [
+        5,
+        1,
+        3
+      ],
+      "total": 9,
+      "timestamp": 1746073827.62396
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        3,
+        6,
+        4
+      ],
+      "total": 13,
+      "timestamp": 1746073869.1447022
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        6,
+        2,
+        5
+      ],
+      "total": 13,
+      "timestamp": 1746073901.9241168
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        3,
+        2,
+        6
+      ],
+      "total": 11,
+      "timestamp": 1746073906.1739662
+    },
+    {
+      "result": "X\u1ec9u",
+      "dice": [
+        1,
+        3,
+        5
+      ],
+      "total": 9,
+      "timestamp": 1746073951.0567408
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        5,
+        6,
+        2
+      ],
+      "total": 13,
+      "timestamp": 1746073987.2794342
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        4,
+        1,
+        6
+      ],
+      "total": 11,
+      "timestamp": 1746074047.7629097
+    },
+    {
+      "result": "X\u1ec9u",
+      "dice": [
+        5,
+        1,
+        3
+      ],
+      "total": 9,
+      "timestamp": 1746074083.8546946
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        3,
+        6,
+        4
+      ],
+      "total": 13,
+      "timestamp": 1746074189.0937362
+    },
+    {
+      "result": "X\u1ec9u",
+      "dice": [
+        3,
+        2,
+        5
+      ],
+      "total": 10,
+      "timestamp": 1746074223.686408
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        2,
+        6,
+        4
+      ],
+      "total": 12,
+      "timestamp": 1746074273.5967853
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        1,
+        6,
+        6
+      ],
+      "total": 13,
+      "timestamp": 1746074292.53366
+    },
+    {
+      "result": "X\u1ec9u",
+      "dice": [
+        5,
+        2,
+        1
+      ],
+      "total": 8,
+      "timestamp": 1746074313.3876789
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        5,
+        5,
+        1
+      ],
+      "total": 11,
+      "timestamp": 1746074379.878319
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        6,
+        5,
+        3
+      ],
+      "total": 14,
+      "timestamp": 1746074380.6624873
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        5,
+        6,
+        4
+      ],
+      "total": 15,
+      "timestamp": 1746074381.8142111
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        5,
+        6,
+        6
+      ],
+      "total": 17,
+      "timestamp": 1746074496.6710553
+    },
+    {
+      "result": "X\u1ec9u",
+      "dice": [
+        4,
+        2,
+        2
+      ],
+      "total": 8,
+      "timestamp": 1746074510.5323675
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        4,
+        5,
+        2
+      ],
+      "total": 11,
+      "timestamp": 1746092060.8749127
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        3,
+        4,
+        4
+      ],
+      "total": 11,
+      "timestamp": 1746092183.1910822
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        6,
+        5,
+        5
+      ],
+      "total": 16,
+      "timestamp": 1746110913.33784
+    },
+    {
+      "result": "X\u1ec9u",
+      "dice": [
+        1,
+        2,
+        3
+      ],
+      "total": 6,
+      "timestamp": 1746110914.7050548
+    },
+    {
+      "result": "X\u1ec9u",
+      "dice": [
+        2,
+        2,
+        6
+      ],
+      "total": 10,
+      "timestamp": 1746110915.72099
+    },
+    {
+      "result": "X\u1ec9u",
+      "dice": [
+        4,
+        2,
+        2
+      ],
+      "total": 8,
+      "timestamp": 1746178836.4471383
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        3,
+        6,
+        3
+      ],
+      "total": 12,
+      "timestamp": 1746178879.9014592
+    },
+    {
+      "result": "X\u1ec9u",
+      "dice": [
+        1,
+        1,
+        2
+      ],
+      "total": 4,
+      "timestamp": 1746179044.7520974
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        4,
+        4,
+        3
+      ],
+      "total": 11,
+      "timestamp": 1746179045.978538
+    },
+    {
+      "result": "T\u00e0i",
+      "dice": [
+        3,
+        5,
+        3
+      ],
+      "total": 11,
+      "timestamp": 1746179068.9366913
+    },
+    {
+      "result": "X\u1ec9u",
+      "dice": [
+        5,
+        3,
+        2
+      ],
+      "total": 10,
+      "timestamp": 1746179132.2475445
+    }
+  ],
+  "history": {
+    "T\u00e0i": {
+      "correct": 0,
+      "wrong": 0
+    },
+    "X\u1ec9u": {
+      "correct": 0,
+      "wrong": 0
+    }
+  }
+}
